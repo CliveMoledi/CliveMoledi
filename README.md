@@ -1,6 +1,6 @@
-# Hi, I'm [YourHandle] 👨‍💻
+# Hi, I'm Clive dude
 
-## 🛡️ SOC Analyst in Training | Cybersecurity Enthusiast
+## 🛡️ SOC Analyst
 
 I’m currently focused on building practical cybersecurity skills with an emphasis on SOC (Security Operations Center) operations, log analysis, and threat detection.
 

@@ -1,12 +1,12 @@
-# Hi, I'm Clive dude
+# Hey, I'm Clive bruh ✌🏾
 
-## 🛡️ SOC Analyst
+## 🤖 SOC Analyst
 
 I’m currently focused on building practical cybersecurity skills with an emphasis on SOC (Security Operations Center) operations, log analysis, and threat detection.
 
 ---
 
-## 🎯 Current Focus
+## 👨🏾‍💻🎯 Current Focus
 
 - Network fundamentals (TCP/IP, DNS, HTTP)
 - Linux system analysis
@@ -37,7 +37,7 @@ Every lab I build is focused on understanding:
 
 ---
 
-## 🚧 Current Goal
+## 🥇 Current Goal
 
 To become a SOC Analyst capable of:
 - Detecting real threats in logs
@@ -48,5 +48,7 @@ To become a SOC Analyst capable of:
 
 ## 📫 Contact
 
-- GitHub: [YourHandle]
-- Learning in public, building in silence.
+- GitHub: [LinkedIn](www.linkedin.com/in/kgalalelo-clive-moledi-0323b7349)
+
+> "Security is not a one-time event, it's an ongoing process."
+> — John Malloy

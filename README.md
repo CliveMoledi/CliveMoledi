@@ -28,17 +28,6 @@ I use hands-on labs to simulate real-world attack and defense scenarios:
 
 ---
 
-## 🧰 Tools I Work With
-
-- Wireshark
-- Splunk / ELK Stack
-- Linux (Kali / Ubuntu)
-- Windows Event Viewer
-- Python
-- Git & GitHub
-
----
-
 ## 📊 Learning Approach
 
 I learn best by breaking things and analyzing how they fail.

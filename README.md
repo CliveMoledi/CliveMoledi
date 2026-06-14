@@ -22,11 +22,3 @@ I use hands-on labs to simulate real-world attack and defense scenarios:
 - 🛠️ Basic Python security automation scripts
 
 ---
-
-## 🥇 Current Goal
-
-To become a SOC Analyst capable of:
-- Detecting real threats in logs
-- Responding to incidents under pressure
-- Understanding attacker behavior patterns
-

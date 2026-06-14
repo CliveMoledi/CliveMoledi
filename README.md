@@ -24,7 +24,6 @@ I use hands-on labs to simulate real-world attack and defense scenarios:
 
 ---
 
-
 ## 🥇 Current Goal
 
 To become a SOC Analyst capable of:
@@ -32,12 +31,3 @@ To become a SOC Analyst capable of:
 - Responding to incidents under pressure
 - Understanding attacker behavior patterns
 
----
-
-## 📫 Contact
-
--[LinkedIn](www.linkedin.com/in/kgalalelo-clive-moledi-0323b7349)
-
-> Security is not a one-time event, it's an ongoing process.  
-
-  > — John Malloy

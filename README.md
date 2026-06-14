@@ -4,12 +4,11 @@ I’m currently focused on building practical cybersecurity skills with an empha
 
 ## 👨🏾‍💻🎯 Current Focus
 
-- Network fundamentals (TCP/IP, DNS, HTTP)
-- Linux system analysis
-- SIEM tools (Splunk / Microsoft Sentinel)
-- Incident detection & response
-- Security automation with Python
-
+* Log analysis & SIEM usage
+* Networking fundamentals
+* Incident detection & response (basic IR)
+* Security concepts (malware, phishing, MITRE ATT&CK)
+* Basic scripting & tooling (Python/Bash, SIEM queries)
 
 ## 🧪 Labs & Projects
 

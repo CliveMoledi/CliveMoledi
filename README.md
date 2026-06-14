@@ -6,7 +6,7 @@
 * Security concepts (malware, phishing, MITRE ATT&CK)
 * Basic scripting & tooling (Python/Bash, SIEM queries)
 
-## 🧪 Labs & Projects
+## Projects
 
 I use hands-on labs to simulate real-world attack and defense scenarios:
 

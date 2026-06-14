@@ -17,7 +17,7 @@ I use hands-on labs to simulate real-world attack and defense scenarios:
 - 🔍 [Home lab](https://github.com/CliveMoledi/My-home-lab)
 - 🚨 [SOC Analyst SIEM Monitoring Lab](https://github.com/CliveMoledi/SOC-Analyst-SIEM-Monitoring-Lab.git)
 - 🧠 [SOC-Phishing-Analysis](https://github.com/CliveMoledi/-soc-phishing-analysis.git)
-- 🌐 Cloud Security-Monitoring
+- 🌐 [Cloud Security-Monitoring](https://github.com/CliveMoledi/Cloud-Security-Monitoring.git)
 - 🛠️ IDS Deployment & Packet Analysis
 
 ---

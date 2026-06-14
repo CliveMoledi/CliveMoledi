@@ -9,7 +9,8 @@ I’m currently focused on building practical cybersecurity skills with an empha
 - SIEM tools (Splunk / Microsoft Sentinel)
 - Incident detection & response
 - Security automation with Python
----
+
+
 ## 🧪 Labs & Projects
 
 I use hands-on labs to simulate real-world attack and defense scenarios:

@@ -24,14 +24,6 @@ I use hands-on labs to simulate real-world attack and defense scenarios:
 
 ---
 
-## 📊 Learning Approach
-
-I learn best by breaking things and analyzing how they fail.
-
-Every lab I build is focused on understanding:
-> “What happened, how it happened, and how to detect it next time.”
-
----
 
 ## 🥇 Current Goal
 

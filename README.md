@@ -1,7 +1,3 @@
-# Hey, I'm Clive bruh ✌🏾
-
-I’m currently focused on building practical cybersecurity skills with an emphasis on SOC (Security Operations Center) operations, log analysis, and threat detection.
-
 ## 👨🏾‍💻🎯 Scope Of Work
 
 * Log analysis & SIEM usage

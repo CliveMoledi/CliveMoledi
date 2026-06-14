@@ -16,7 +16,7 @@ I use hands-on labs to simulate real-world attack and defense scenarios:
 
 - 🔍 [Home lab](https://github.com/CliveMoledi/My-home-lab)
 - 🚨 [SOC Analyst SIEM Monitoring Lab](https://github.com/CliveMoledi/SOC-Analyst-SIEM-Monitoring-Lab.git)
-- 🧠 [soc-phishing-analysis](https://github.com/CliveMoledi/-soc-phishing-analysis.git)
+- 🧠 [SOC-Phishing-Analysis](https://github.com/CliveMoledi/-soc-phishing-analysis.git)
 - 🌐 Wireshark traffic analysis labs
 - 🛠️ Basic Python security automation scripts
 

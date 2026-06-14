@@ -16,7 +16,7 @@ I’m currently focused on building practical cybersecurity skills with an empha
 
 I use hands-on labs to simulate real-world attack and defense scenarios:
 
-- 🔍 Log analysis and anomaly detection
+- 🔍 [Home lab](https://github.com/CliveMoledi/My-home-lab)
 - 🚨 Brute force attack detection (SIEM rules)
 - 🧠 Windows & Linux event log investigation
 - 🌐 Wireshark traffic analysis labs
